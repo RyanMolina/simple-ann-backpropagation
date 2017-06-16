@@ -1,0 +1,9 @@
+c:\users\ryang\documents\visual studio 2017\Projects\ANNConsoleApp\ANNConsoleApp\bin\Debug\netcoreapp1.1\ANNConsoleApp.deps.json
+c:\users\ryang\documents\visual studio 2017\Projects\ANNConsoleApp\ANNConsoleApp\bin\Debug\netcoreapp1.1\ANNConsoleApp.runtimeconfig.json
+c:\users\ryang\documents\visual studio 2017\Projects\ANNConsoleApp\ANNConsoleApp\bin\Debug\netcoreapp1.1\ANNConsoleApp.runtimeconfig.dev.json
+c:\users\ryang\documents\visual studio 2017\Projects\ANNConsoleApp\ANNConsoleApp\bin\Debug\netcoreapp1.1\ANNConsoleApp.dll
+c:\users\ryang\documents\visual studio 2017\Projects\ANNConsoleApp\ANNConsoleApp\bin\Debug\netcoreapp1.1\ANNConsoleApp.pdb
+c:\users\ryang\documents\visual studio 2017\Projects\ANNConsoleApp\ANNConsoleApp\obj\Debug\netcoreapp1.1\ANNConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\ryang\documents\visual studio 2017\Projects\ANNConsoleApp\ANNConsoleApp\obj\Debug\netcoreapp1.1\ANNConsoleApp.AssemblyInfo.cs
+c:\users\ryang\documents\visual studio 2017\Projects\ANNConsoleApp\ANNConsoleApp\obj\Debug\netcoreapp1.1\ANNConsoleApp.dll
+c:\users\ryang\documents\visual studio 2017\Projects\ANNConsoleApp\ANNConsoleApp\obj\Debug\netcoreapp1.1\ANNConsoleApp.pdb
